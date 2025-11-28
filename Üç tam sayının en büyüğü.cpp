@@ -3,11 +3,11 @@ using namespace std;
 int main()
 {
 	int sayi1, sayi2, sayi3;
-		cout << "Birinci sayiyi giriniz";
+		cout << "Birinci sayiyi giriniz:";
 	cin >> sayi1;
-	cout << "Ikinci sayyi giriniz";
+	cout << "Ikinci sayyi giriniz:";
 	cin >> sayi2;
-	cout << "Ucuncu sayiyi giriniz";
+	cout << "Ucuncu sayiyi giriniz:";
 	cin >> sayi3;
 	cout << "En buyuk sayi:";
 		if ((sayi1 > sayi2) && (sayi1 > sayi3))
@@ -17,4 +17,5 @@ int main()
 		else
 			cout << sayi3;
 		return 0;
+
 }
