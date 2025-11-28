@@ -6,4 +6,4 @@ Nasıl Çalıştırılır?
 
 1)Seçtiğiniz 3 tamsayı değerini sırasıyla giriniz.
 
-2)Girilen sayılar arasından en büyük olan ekranda görüntülenecektir.
+2)Girilen sayılar arasından en büyük olan ekranda görüntülenecektir. 
